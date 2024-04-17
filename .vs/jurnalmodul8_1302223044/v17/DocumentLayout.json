@@ -10,7 +10,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "jurnalmodul8_1302223044\\Program.cs",
               "ToolTip": "C:\\Kuliah\\kpl\\jurnalmodul8_1302223044\\jurnalmodul8_1302223044\\Program.cs",
               "RelativeToolTip": "jurnalmodul8_1302223044\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T23:29:32.844Z",
               "EditorCaption": ""
